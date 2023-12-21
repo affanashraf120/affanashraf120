@@ -1,5 +1,5 @@
-![logo](https://github.com/affanashraf120/affanashraf120/blob/main/git%20affan.banner.png)
-<h1 align="center">Hi 👋, I'm M Affan Ashraf</h1>
+![logo](https://github.com/affanashraf120/affanashraf120/blob/main/git%20banner%20affan.png)
+<h1 align="center">Hi 👋, I'm Full Stack Developer</h1>
 <h3 align="center">Experienced and passionate Full Stack Developer hailing from Pakistan, dedicated to crafting seamless and innovative user experiences.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/bJ4TVNYNUympPgcpem/200w.webp?cid=ecf05e47swqwyq07ptpmts8t6kccp5pig64u7ya9d5rnyz93&ep=v1_gifs_search&rid=200w.webp&ct=g">
