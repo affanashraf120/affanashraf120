@@ -1,4 +1,4 @@
-![logo](https://github.com/affanashraf120/affanashraf120/blob/main/git%20affan%20banner.png)
+![logo](https://github.com/affanashraf120/affanashraf120/blob/main/git%20affan.banner.png)
 <h1 align="center">Hi 👋, I'm M Affan Ashraf</h1>
 <h3 align="center">Experienced and passionate Full Stack Developer hailing from Pakistan, dedicated to crafting seamless and innovative user experiences.</h3>
 
