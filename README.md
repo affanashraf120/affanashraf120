@@ -1,6 +1,6 @@
 ![logo](https://github.com/affanashraf120/affanashraf120/blob/main/affan%20banner%20github.png)
 <h3 align="center">Hi 👋, How are things going? </h3>
-<h4 align="left">I'm experienced and passionate Full Stack Developer hailing from Pakistan, dedicated to crafting seamless and innovative user experiences.</h4>
+<h4 align="left">I'm experienced and passionate Full Stack Developer, dedicated to crafting seamless and innovative user experiences.</h4>
 
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/bJ4TVNYNUympPgcpem/200w.webp?cid=ecf05e47swqwyq07ptpmts8t6kccp5pig64u7ya9d5rnyz93&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
